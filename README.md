@@ -86,7 +86,7 @@ The dashboard analyzes:
 
 ### 📁 Power BI File
 
-[Download / View Power BI Dashboard](Power BI/Bank_Project_Dashboard.pbix)
+[Download / View Power BI Dashboard](PowerBI/Bank_project_Dashboard.pbix)
 
 ## 📁 Project Structure
 
