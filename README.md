@@ -48,6 +48,13 @@ Key SQL concepts used:
 - Views
 - Indexes
 
+  ### 📂 SQL Files
+
+- [Database Setup](SQL/01_database_and_tables)
+- [Data Validation](SQL/03_exploratory_data_analysis)
+- [Business Insights Queries](SQL/04_business_insights_queries)
+
+
 ## 📈 Power BI Dashboard
 
 The Power BI dashboard provides an interactive view of banking transaction performance.
