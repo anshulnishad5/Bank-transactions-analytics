@@ -48,7 +48,7 @@ Key SQL concepts used:
 - Views
 - Indexes
 
-  ### 📂 SQL Files
+### 📂 SQL Files
 
 - [Database Setup](SQL/01_database_and_tables.sql)
 - [Data Validation](SQL/03_exploratory_data_analysis.sql)
