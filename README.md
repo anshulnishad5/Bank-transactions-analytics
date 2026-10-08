@@ -83,6 +83,11 @@ The dashboard analyzes:
 ### 📸 Dashboard Preview
 
 ![Bank Transactions Dashboard](Dashboard/Dashboard.png)
+
+### 📁 Power BI File
+
+[Download / View Power BI Dashboard](Power BI/Bank_Project_Dashboard.pbix)
+
 ## 📁 Project Structure
 
 ```text
