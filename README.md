@@ -50,9 +50,9 @@ Key SQL concepts used:
 
   ### 📂 SQL Files
 
-- [Database Setup](SQL/01_database_and_tables)
-- [Data Validation](SQL/03_exploratory_data_analysis)
-- [Business Insights Queries](SQL/04_business_insights_queries)
+- [Database Setup](SQL/01_database_and_tables.sql)
+- [Data Validation](SQL/03_exploratory_data_analysis.sql)
+- [Business Insights Queries](SQL/04_business_insights_queries.sql)
 
 
 ## 📈 Power BI Dashboard
