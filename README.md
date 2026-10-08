@@ -73,17 +73,9 @@ The dashboard analyzes:
 - Transaction volume
 - Customer/account-level performance
 
-## 💡 Key Business Insights
+### 📸 Dashboard Preview
 
-The analysis helps identify:
-
-- Trends in transaction volume and transaction value
-- Payment methods with higher transaction activity
-- Successful, failed, and pending transaction patterns
-- Monthly changes in transaction performance
-- High-value and high-activity accounts
-- Areas that may require further business attention
-
+![Bank Transactions Dashboard](Dashboard/dashboard.jpg)
 ## 📁 Project Structure
 
 ```text
