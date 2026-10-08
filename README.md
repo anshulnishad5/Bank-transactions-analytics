@@ -75,7 +75,7 @@ The dashboard analyzes:
 
 ### 📸 Dashboard Preview
 
-![Bank Transactions Dashboard](Dashboard/dashboard.jpg)
+![Bank Transactions Dashboard](Files For Dashboard/Dashboard.png)
 ## 📁 Project Structure
 
 ```text
